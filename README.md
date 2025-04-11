@@ -1,5 +1,5 @@
 <h1 align="center">¯\_(ツ)_/¯ Hi, I'm Akihiko</h1>
-<h3 align="center">Welcome to my Github profile, where you can see my personal projects/researchs about coding and security</h3>
+<h3 align="center">Welcome to my Github profile, where you can see my personal projects/researches about coding and security</h3>
 
 - At this time I'm a **male IT student from Vietnam**
 
