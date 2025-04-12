@@ -9,6 +9,8 @@
 
 - Also my discord: **i_am_akihiko**
 
+- (˵ ¬ᴗ¬˵) You can see my own page on this link: https://akihiko2004.github.io/MyWebpage/ (˵ ¬ᴗ¬˵)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/daubepsitinh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="daubepsitinh" height="30" width="40" /></a>
