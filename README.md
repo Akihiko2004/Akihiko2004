@@ -9,7 +9,7 @@
 
 - Also my discord: **i_am_akihiko**
 
-- (˵ ¬ᴗ¬˵) You can see my own page on this link: https://akihiko2004.github.io/MyWebpage/ (˵ ¬ᴗ¬˵)
+- (˵ ¬ᴗ¬˵) You can see my own page on this link: https://akihiko.site (˵ ¬ᴗ¬˵)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
