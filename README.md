@@ -5,7 +5,7 @@
 
 - 📖 Currently learning on **Information Security in HUIT/Ho Chi Minh City University of Industry and Trade**
 
-- 📫 Contact me on my email: **huypro022@gmail.com**
+- 📫 Contact me on my email: **huypro022@gmail.com** **nguyengiahuy131004@gmail.com**
 
 - Also my discord: **i_am_akihiko**
 
