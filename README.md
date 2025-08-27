@@ -1,13 +1,16 @@
-<h1 align="center">¯\_(ツ)_/¯ Hi, I'm Akihiko</h1>
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/c70326e6-0590-415b-8719-be5376e2fd3d" /><h1 align="center">¯\_(ツ)_/¯ Hi, I'm Akihiko</h1>
 <h3 align="center">Welcome to my Github profile, where you can see my personal projects/researches about coding and security</h3>
 
-- At this time I'm a **male IT student from Vietnam**
+- I'm a **male IT student from Vietnam**
+
+- At this time, I'm a QC intern at **HDbank**
 
 - 📖 Currently learning on **Information Security in HUIT/Ho Chi Minh City University of Industry and Trade**
 
-- 📫 Contact me on my email: **huypro022@gmail.com** **nguyengiahuy131004@gmail.com**
+- 📫 Contact me on my email: **nguyengiahuy131004@gmail.com**
 
-- Also my discord: **i_am_akihiko**
+- 💬 Also my discord: **i_am_akihiko** and **LinkedIn**: *Huy (Akihiko) Nguyễn Gia*
+ 
 
 - (˵ ¬ᴗ¬˵) You can see my own page on this link: https://akihiko.site (˵ ¬ᴗ¬˵)
 
