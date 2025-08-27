@@ -9,7 +9,7 @@
 
 - 📫 Contact me on my email: **nguyengiahuy131004@gmail.com**
 
-- 💬 Also my discord: **i_am_akihiko** and **LinkedIn**: *Huy (Akihiko) Nguyễn Gia*
+- 💬 Also my discord: **i_am_akihiko** and **LinkedIn**: **Huy (Akihiko) Nguyễn Gia**
  
 
 - (˵ ¬ᴗ¬˵) You can see my own page on this link: https://akihiko.site (˵ ¬ᴗ¬˵)
