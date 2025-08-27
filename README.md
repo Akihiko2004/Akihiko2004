@@ -1,4 +1,4 @@
-<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/c70326e6-0590-415b-8719-be5376e2fd3d" /><h1 align="center">¯\_(ツ)_/¯ Hi, I'm Akihiko</h1>
+<h1 align="center">¯\_(ツ)_/¯ Hi, I'm Akihiko</h1>
 <h3 align="center">Welcome to my Github profile, where you can see my personal projects/researches about coding and security</h3>
 
 - I'm a **male IT student from Vietnam**
